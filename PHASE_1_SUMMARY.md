@@ -225,7 +225,7 @@ stellar-data-lab/
 
 ```bash
 # Clone repository
-git clone https://github.com/stellar/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
 cd stellar-data-lab
 
 # Create virtual environment
@@ -436,8 +436,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step guide.
 
 ## Contact & Support
 
-- **Questions?** Open an [Issue](https://github.com/stellar/stellar-data-lab/issues)
-- **Ideas?** Start a [Discussion](https://github.com/stellar/stellar-data-lab/discussions)
+- **Questions?** Open an [Issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues)
+- **Ideas?** Start a [Discussion](https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions)
 - **Contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
