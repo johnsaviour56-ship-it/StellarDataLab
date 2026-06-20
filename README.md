@@ -26,7 +26,7 @@ All data flows through a Python pipeline, stored in Git as CSV/JSON, and validat
 
 ```bash
 # Clone the repository
-git clone https://github.com/stellar/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
 cd stellar-data-lab
 
 # Create virtual environment
@@ -174,11 +174,11 @@ See [RESEARCH.md](RESEARCH.md) for research standards and reproducibility princi
 
 ### GitHub Releases
 
-Datasets are published on [GitHub Releases](https://github.com/stellar/stellar-data-lab/releases) with version tags:
+Datasets are published on [GitHub Releases](https://github.com/johnsaviour56-ship-it/stellar-data-lab/releases) with version tags:
 
 ```bash
 # Download a specific version
-wget https://github.com/stellar/stellar-data-lab/releases/download/v1.0.0/datasets.tar.gz
+wget https://github.com/johnsaviour56-ship-it/stellar-data-lab/releases/download/v1.0.0/datasets.tar.gz
 tar -xzf datasets.tar.gz
 ```
 
@@ -188,7 +188,7 @@ Datasets are committed to this repository:
 
 ```bash
 # Clone and access curated datasets
-git clone https://github.com/stellar/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
 cd stellar-data-lab/datasets/curated/
 ```
 
@@ -230,17 +230,17 @@ If you use StellarDataLab datasets in your research, please cite:
 
 ## Community
 
-- **Questions?** Open an [Issue](https://github.com/stellar/stellar-data-lab/issues)
-- **Ideas?** Start a [Discussion](https://github.com/stellar/stellar-data-lab/discussions)
+- **Questions?** Open an [Issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues)
+- **Ideas?** Start a [Discussion](https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions)
 - **Contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Support
 
 For issues, questions, or contributions:
 
-1. Check [existing issues](https://github.com/stellar/stellar-data-lab/issues)
+1. Check [existing issues](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues)
 2. Read the [documentation](docs/)
-3. Open a new [issue](https://github.com/stellar/stellar-data-lab/issues/new)
+3. Open a new [issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues/new)
 
 ---
 
