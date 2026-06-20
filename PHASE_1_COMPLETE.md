@@ -187,7 +187,7 @@ The foundation is ready. Next phase (Phase 1.5) will:
 ### 1. Set Up Local Environment
 
 ```bash
-git clone https://github.com/stellar/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
 cd stellar-data-lab
 
 python -m venv venv
@@ -213,8 +213,8 @@ See [docs/pipeline-guide.md](docs/pipeline-guide.md) for pipeline details.
 
 ## Questions & Support
 
-- **Issues**: https://github.com/stellar/stellar-data-lab/issues
-- **Discussions**: https://github.com/stellar/stellar-data-lab/discussions
+- **Issues**: https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues
+- **Discussions**: https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
