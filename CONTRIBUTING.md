@@ -8,7 +8,7 @@ Welcome! We're excited to have you contribute to StellarDataLab. This guide will
 
 ```bash
 # Clone repository
-git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/StellarDataLab.git
 cd stellar-data-lab
 
 # Create virtual environment
@@ -274,8 +274,8 @@ CI will automatically validate your dataset. Once approved, it will be merged an
 
 ## Getting Help
 
-- **Questions?** Open an [Issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues)
-- **Ideas?** Start a [Discussion](https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions)
+- **Questions?** Open an [Issue](https://github.com/johnsaviour56-ship-it/StellarDataLab/issues)
+- **Ideas?** Start a [Discussion](https://github.com/johnsaviour56-ship-it/StellarDataLab/discussions)
 - **Bug?** Report with reproduction steps
 
 ## Code of Conduct
