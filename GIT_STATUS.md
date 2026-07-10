@@ -34,7 +34,7 @@ Status: Complete
 ### Current Status
 ```
 Branch: main
-Remote: origin → https://github.com/johnsaviour56-ship-it/StellarDataLAb.git
+Remote: origin → https://github.com/johnsaviour56-ship-it/StellarDataLab.git
 Commits Pending: 2
 Total Files: 36
 ```
@@ -59,12 +59,12 @@ git push -u origin main
 
 ### Option 2: With Personal Access Token
 ```bash
-git push https://USERNAME:TOKEN@github.com/johnsaviour56-ship-it/StellarDataLAb.git
+git push https://USERNAME:TOKEN@github.com/johnsaviour56-ship-it/StellarDataLab.git
 ```
 
 ### Option 3: With SSH
 ```bash
-git remote set-url origin git@github.com:johnsaviour56-ship-it/StellarDataLAb.git
+git remote set-url origin git@github.com:johnsaviour56-ship-it/StellarDataLab.git
 git push -u origin main
 ```
 
@@ -96,7 +96,7 @@ nothing to commit, working tree clean
 
 Your repository will be available at:
 ```
-https://github.com/johnsaviour56-ship-it/StellarDataLAb
+https://github.com/johnsaviour56-ship-it/StellarDataLab
 ```
 
 ### GitHub will automatically:
