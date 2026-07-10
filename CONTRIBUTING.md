@@ -9,7 +9,7 @@ Welcome! We're excited to have you contribute to StellarDataLab. This guide will
 ```bash
 # Clone repository
 git clone https://github.com/johnsaviour56-ship-it/StellarDataLab.git
-cd stellar-data-lab
+cd StellarDataLab
 
 # Create virtual environment
 python -m venv venv
