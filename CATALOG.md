@@ -51,7 +51,7 @@ Clone and browse datasets:
 
 ```bash
 git clone https://github.com/johnsaviour56-ship-it/StellarDataLab.git
-cd stellar-data-lab
+cd StellarDataLab
 ls datasets/curated/
 ```
 
