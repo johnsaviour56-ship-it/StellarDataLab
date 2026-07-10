@@ -50,7 +50,7 @@ The following datasets are available:
 Clone and browse datasets:
 
 ```bash
-git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/StellarDataLab.git
 cd stellar-data-lab
 ls datasets/curated/
 ```
@@ -61,7 +61,7 @@ Download versioned datasets:
 
 ```bash
 # Get v1.0.0
-wget https://github.com/johnsaviour56-ship-it/stellar-data-lab/releases/download/v1.0.0/datasets.tar.gz
+wget https://github.com/johnsaviour56-ship-it/StellarDataLab/releases/download/v1.0.0/datasets.tar.gz
 tar -xzf datasets.tar.gz
 ```
 
@@ -148,7 +148,7 @@ If you use StellarDataLab datasets in your research, please cite:
   title={StellarDataLab: Open-source Research and Data Repository for the Stellar Ecosystem},
   author={StellarDataLab Contributors},
   year={2024},
-  url={https://github.com/johnsaviour56-ship-it/stellar-data-lab}
+  url={https://github.com/johnsaviour56-ship-it/StellarDataLab}
 }
 ```
 
@@ -160,7 +160,7 @@ For specific datasets, cite the dataset version and date:
   author={StellarDataLab Contributors},
   year={2024},
   version={1.0},
-  url={https://github.com/johnsaviour56-ship-it/stellar-data-lab/releases}
+  url={https://github.com/johnsaviour56-ship-it/StellarDataLab/releases}
 }
 ```
 
@@ -168,4 +168,4 @@ For specific datasets, cite the dataset version and date:
 
 **Last updated**: January 2024
 
-**Questions?** Open an [issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues) or [discussion](https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions).
+**Questions?** Open an [issue](https://github.com/johnsaviour56-ship-it/StellarDataLab/issues) or [discussion](https://github.com/johnsaviour56-ship-it/StellarDataLab/discussions).
