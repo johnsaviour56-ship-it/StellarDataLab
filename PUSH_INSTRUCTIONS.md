@@ -3,7 +3,7 @@
 ## Current Status
 
 ✓ All files have been committed locally  
-✓ Remote origin configured: `https://github.com/johnsaviour56-ship-it/StellarDataLAb.git`  
+✓ Remote origin configured: `https://github.com/johnsaviour56-ship-it/StellarDataLab.git`  
 ✓ Ready to push to GitHub
 
 ## How to Push (Choose One Method)
@@ -32,7 +32,7 @@ git push -u origin main
 
 2. **Push using the token**:
    ```bash
-   git push https://<YOUR_USERNAME>:<YOUR_TOKEN>@github.com/johnsaviour56-ship-it/StellarDataLAb.git
+   git push https://<YOUR_USERNAME>:<YOUR_TOKEN>@github.com/johnsaviour56-ship-it/StellarDataLab.git
    ```
    
    Or cache credentials:
@@ -55,7 +55,7 @@ git push -u origin main
 
 3. **Update remote to use SSH**:
    ```bash
-   git remote set-url origin git@github.com:johnsaviour56-ship-it/StellarDataLAb.git
+   git remote set-url origin git@github.com:johnsaviour56-ship-it/StellarDataLab.git
    git push -u origin main
    ```
 
@@ -92,7 +92,7 @@ tests/                     Unit tests
 
 Once pushed, your repository will be visible at:
 ```
-https://github.com/johnsaviour56-ship-it/StellarDataLAb
+https://github.com/johnsaviour56-ship-it/StellarDataLab
 ```
 
 ### Next Steps
