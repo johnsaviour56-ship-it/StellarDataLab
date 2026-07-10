@@ -17,7 +17,7 @@
 ### 1. Complete Repository Architecture ✓
 
 ```
-stellar-data-lab/
+StellarDataLab/
 │
 ├── pipeline/                    Core data pipeline (Python)
 │   ├── orchestrator.py         Orchestrates collection → transform → validate → export
@@ -225,8 +225,8 @@ stellar-data-lab/
 
 ```bash
 # Clone repository
-git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
-cd stellar-data-lab
+git clone https://github.com/johnsaviour56-ship-it/StellarDataLab.git
+cd StellarDataLab
 
 # Create virtual environment
 python -m venv venv
@@ -436,8 +436,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step guide.
 
 ## Contact & Support
 
-- **Questions?** Open an [Issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues)
-- **Ideas?** Start a [Discussion](https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions)
+- **Questions?** Open an [Issue](https://github.com/johnsaviour56-ship-it/StellarDataLab/issues)
+- **Ideas?** Start a [Discussion](https://github.com/johnsaviour56-ship-it/StellarDataLab/discussions)
 - **Contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
