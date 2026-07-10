@@ -9,7 +9,7 @@ Phase 1 of StellarDataLab has been successfully completed. The repository struct
 ### ✓ Repository Structure
 
 ```
-stellar-data-lab/
+StellarDataLab/
 ├── pipeline/                    # Core data pipeline modules
 │   ├── __init__.py
 │   ├── orchestrator.py         # Main orchestration (4-stage pipeline)
@@ -187,8 +187,8 @@ The foundation is ready. Next phase (Phase 1.5) will:
 ### 1. Set Up Local Environment
 
 ```bash
-git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
-cd stellar-data-lab
+git clone https://github.com/johnsaviour56-ship-it/StellarDataLab.git
+cd StellarDataLab
 
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -213,8 +213,8 @@ See [docs/pipeline-guide.md](docs/pipeline-guide.md) for pipeline details.
 
 ## Questions & Support
 
-- **Issues**: https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues
-- **Discussions**: https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions
+- **Issues**: https://github.com/johnsaviour56-ship-it/StellarDataLab/issues
+- **Discussions**: https://github.com/johnsaviour56-ship-it/StellarDataLab/discussions
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
