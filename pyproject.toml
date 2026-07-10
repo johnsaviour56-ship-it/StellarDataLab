@@ -43,10 +43,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/stellar/stellar-data-lab"
-Documentation = "https://github.com/stellar/stellar-data-lab#readme"
-Repository = "https://github.com/stellar/stellar-data-lab.git"
-"Bug Tracker" = "https://github.com/stellar/stellar-data-lab/issues"
+Homepage = "https://github.com/stellar/StellarDataLab"
+Documentation = "https://github.com/stellar/StellarDataLab#readme"
+Repository = "https://github.com/stellar/StellarDataLab.git"
+"Bug Tracker" = "https://github.com/stellar/StellarDataLab/issues"
 
 [tool.setuptools]
 packages = ["pipeline"]
